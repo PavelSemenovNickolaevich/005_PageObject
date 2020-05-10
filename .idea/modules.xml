@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample_3_Waiters/005_PageObject.iml" filepath="$PROJECT_DIR$/Sample_3_Waiters/005_PageObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_1_PageObject/005_PageObject (1).iml" filepath="$PROJECT_DIR$/Sample_1_PageObject/005_PageObject (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_2_PageFactory/005_PageObject (2).iml" filepath="$PROJECT_DIR$/Sample_2_PageFactory/005_PageObject (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PageObjectPattern.iml" filepath="$PROJECT_DIR$/.idea/PageObjectPattern.iml" />
+    </modules>
+  </component>
+</project>
